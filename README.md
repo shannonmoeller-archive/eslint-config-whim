@@ -6,7 +6,9 @@ A protean JavaScript lint configuration based on my mercurial preferences.
 
 ## Install
 
-    $ npm install --save-dev eslint eslint-config-whim
+```
+$ npm install --save-dev eslint eslint-config-whim
+```
 
 ## Usage
 
