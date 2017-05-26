@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-whim",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A protean JavaScript lint configuration based on my mercurial preferences.",
   "license": "ISC",
   "repository": "https://github.com/shannonmoeller/eslint-config-whim",
