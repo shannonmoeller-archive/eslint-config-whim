@@ -7,6 +7,10 @@ module.exports = {
 	plugins: [
 		'eslint-plugin-html',
 	],
+	env: {
+		browser: true,
+		node: true,
+	},
 	rules: {
 		// Enable customized.
 		'arrow-spacing': ['error', { after: true, before: true }],
